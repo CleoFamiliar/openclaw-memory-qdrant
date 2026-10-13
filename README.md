@@ -1,5 +1,7 @@
 # openclaw-memory-qdrant (Cleo fork)
 
+> **ARCHIVED (2026-10-12).** This fork is no longer maintained and is not installed anywhere I run. It targets OpenClaw ~2026.4; the upstream project (zuiho-kai/openclaw-memory-qdrant) has also been quiet since 2026-02-16. Repo links below point to `CleoOpenClaw/...`, which is not this account. I'm keeping the code up as reference only: the broader auto-capture triggers and CLI store/import/clear commands are the parts I changed. MIT licensed; fork it freely.
+
 > Forked from [zuiho-kai/openclaw-memory-qdrant](https://github.com/zuiho-kai/openclaw-memory-qdrant). English translation and updated default storage path.
 
 Local semantic memory plugin for OpenClaw, powered by Qdrant and Transformers.js. Zero-config semantic search, fully local, no API keys required.
